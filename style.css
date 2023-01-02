@@ -1,0 +1,14 @@
+input:invalid:focus {
+    outline: none !important;
+    border-color: red;
+}
+
+input:placeholder-shown {
+    outline: none !important;
+    border-color: black;
+}
+
+input:focus { 
+    outline: none !important;
+    border-color: #719ECE;
+}
